@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240849414647",
+    "project_id": "shipdetection-28c56",
+    "storage_bucket": "shipdetection-28c56.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240849414647:android:0a08493c996412ae1ca6f2",
+        "android_client_info": {
+          "package_name": "com.example.ship_detection_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMR8_6yajeVWQZyv0owVhBD4iD5EvjcnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

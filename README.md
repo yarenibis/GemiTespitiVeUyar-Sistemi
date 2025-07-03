@@ -1,1 +1,1 @@
-# Proje detaylarına makale veya sunum dosyasından ulaşabilirsiniz
+# Proje detaylarına rapor veya sunum dosyasından ulaşabilirsiniz
